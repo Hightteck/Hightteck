@@ -1,6 +1,6 @@
 ### Olá, Me chamo igor Constante
 
-Estudando (HTML-CCS3)
+Estudando (HTML-CSS3)
 
 <div>
 <a href="https://github.com/Hightteck">
