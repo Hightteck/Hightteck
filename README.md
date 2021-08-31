@@ -23,3 +23,7 @@ Estudando (HTML5-CSS3-PHP-JS-BOOTSTRAP)
   <a href = "mailto:igor.constant1900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5551989150916&text=Ola"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a>
 </div>
+
+  ##
+  
+my social links
