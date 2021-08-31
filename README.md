@@ -27,5 +27,4 @@ Estudando (HTML5-CSS3-PHP-JS-BOOTSTRAP)
   <a href="https://api.whatsapp.com/send?phone=5551989150916&text=Ola"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-red&logo=whatsapp&logoColor=black" target="_blank"></a>
   <a href="https://www.instagram.com/igor__9906/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-red&logo=instagram&logoColor=black" target="_blank"></a>
   <a href = "mailto:igor.constant1900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-red&logo=gmail&logoColor=black" target="_blank"></a>
-  
-</div>
+</div
